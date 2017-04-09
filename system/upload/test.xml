@@ -1,0 +1,58 @@
+<Item MaintenanceType="C">
+  <HazardousMaterialCode>N</HazardousMaterialCode>
+  <ItemLevelGTIN GTINQualifier="UP">090127000380</ItemLevelGTIN>
+  <PartNumber>0-1848-1</PartNumber>
+  <BrandAAIAID>BBVL</BrandAAIAID>
+  <BrandLabel>Holley</BrandLabel>
+  <PartTerminologyID>5904</PartTerminologyID>
+  <Descriptions>
+    <Description MaintenanceType="C" DescriptionCode="DES" LanguageCode="EN">Street Carburetor</Description>
+    <Description MaintenanceType="C" DescriptionCode="SHO" LanguageCode="EN">Crb</Description>
+  </Descriptions>
+  <Prices>
+    <Pricing MaintenanceType="C" PriceType="JBR">
+      <PriceSheetNumber>L30779-13</PriceSheetNumber>
+      <CurrencyCode>USD</CurrencyCode>
+      <EffectiveDate>2013-01-01</EffectiveDate>
+      <Price UOM="PE">462.4600</Price>
+    </Pricing>
+    <Pricing MaintenanceType="C" PriceType="RET">
+      <PriceSheetNumber>L30779-13</PriceSheetNumber>
+      <CurrencyCode>USD</CurrencyCode>
+      <EffectiveDate>2013-01-01</EffectiveDate>
+      <Price UOM="PE">380.5500</Price>
+    </Pricing>
+    <Pricing MaintenanceType="C" PriceType="WD1">
+      <PriceSheetNumber>L30779-13</PriceSheetNumber>
+      <CurrencyCode>USD</CurrencyCode>
+      <EffectiveDate>2013-01-01</EffectiveDate>
+      <Price UOM="PE">314.4700</Price>
+    </Pricing>
+  </Prices>
+  <ExtendedInformation>
+    <ExtendedProductInformation MaintenanceType="C" EXPICode="CTO" LanguageCode="EN">US</ExtendedProductInformation>
+    <ExtendedProductInformation MaintenanceType="C" EXPICode="NPC" LanguageCode="EN">A</ExtendedProductInformation>
+    <ExtendedProductInformation MaintenanceType="C" EXPICode="HTS" LanguageCode="EN">8409914000</ExtendedProductInformation>
+    <ExtendedProductInformation MaintenanceType="C" EXPICode="NAF" LanguageCode="EN">B</ExtendedProductInformation>
+  </ExtendedInformation>
+  <ProductAttributes>
+    <ProductAttribute MaintenanceType="C" AttributeID="SKU" LanguageCode="EN">BBVL0-1848-1</ProductAttribute>
+    <ProductAttribute MaintenanceType="C" AttributeID="ModDate" LanguageCode="EN">2012-12-31</ProductAttribute>
+  </ProductAttributes>
+  <Packages>
+    <Package MaintenanceType="C">
+      <PackageLevelGTIN>00090127000380</PackageLevelGTIN>
+      <PackageUOM>EA</PackageUOM>
+      <QuantityofEaches>1</QuantityofEaches>
+      <Dimensions UOM="IN">
+        <Height>7.5000</Height>
+        <Width>11.0000</Width>
+        <Length>12.2500</Length>
+      </Dimensions>
+      <Weights UOM="PG">
+        <Weight>13.500</Weight>
+        <DimensionalWeight>6.09</DimensionalWeight>
+      </Weights>
+    </Package>
+  </Packages>
+</Item>
