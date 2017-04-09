@@ -1,2 +1,2 @@
-<h1>Atenção!</h1>
+<h1>Alert</h1>
 <p><?= htmlspecialchars($message) ?></p>
